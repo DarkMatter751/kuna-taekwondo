@@ -1,0 +1,15 @@
+export { default as Navigation } from "./Navigation";
+export { default as Footer } from "./Footer";
+export { default as Home } from "./Home";
+export { default as IH } from "./Info&History";
+export { default as ClassStyle } from "./Class-Styles";
+export { default as LRDetails } from "./LowerRank-Details";
+export { default as URDetails } from "./UpperRank-Details";
+export { default as Bios } from "./Bios";
+export { default as Info } from "./Important-Info";
+export { default as FirstDay } from "./Day1";
+export { default as Events} from "./Events";
+export { default as Reviews } from "./Reviews";
+export { default as TP } from "./Time&Money-Details";
+export { default as Gallery } from "./Gallery";
+export { default as Contact } from "./Contact";
